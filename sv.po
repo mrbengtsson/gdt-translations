@@ -55,7 +55,7 @@ msgstr "Guld"
 
 #. achievement
 msgid "Sell half a million copies of a game without the help of a publisher."
-msgstr "Sälj en halv miljon kopior av ett spel utan någon hjälp av en utgivare."
+msgstr "Sälj en halv miljon kopior av ett spel utan någon hjälp från en utgivare."
 
 #. achievement title
 msgid "Platinum"
@@ -63,7 +63,7 @@ msgstr "Platina"
 
 #. achievement
 msgid "Sell one million copies of a game without the help of a publisher."
-msgstr "Sälj en miljon kopior av ett spel utan någon hjälp av en utgivare."
+msgstr "Sälj en miljon kopior av ett spel utan någon hjälp från en utgivare."
 
 #. achievement title
 msgid "Diamond"
@@ -71,7 +71,7 @@ msgstr "Diamant"
 
 #. achievement
 msgid "Sell ten million copies of a game without the help of a publisher."
-msgstr "Sälj tio miljoner kopior av ett spel utan någon hjälp av en utgivare."
+msgstr "Sälj tio miljoner kopior av ett spel utan någon hjälp från en utgivare."
 
 #. achievement title, refers to unobtanium, mocks the name of the rare mineral in the movie Avatar
 msgid "Unobtainium (seriously?)"
@@ -80,7 +80,7 @@ msgstr "Unobtainium (seriöst?)"
 #. achievement
 msgid "Sell one hundred million copies of a game without the help of a publisher."
 msgstr ""
-"Sälj ett hundra miljoner kopior av ett spel utan någon hjälp av en utgivare."
+"Sälj ett hundra miljoner kopior av ett spel utan någon hjälp från en utgivare."
 
 #. achievement title
 msgid "Professional"
@@ -143,7 +143,7 @@ msgstr "Detektiv"
 
 #. achievement
 msgid "Find at least one of the easter eggs in the game."
-msgstr "Hitta åtminstone ett av spelets påskägg."
+msgstr "Hitta åtminstone ett av spelets easter eggs."
 
 #. achievement title
 msgid "Treasure Hunter"
@@ -187,7 +187,7 @@ msgstr "Patienterna påminns att inte dö i korridorerna."
 
 #. achievement title, refers to Halo
 msgid "Welcome Chief"
-msgstr "Välkommen chefen"
+msgstr "Välkommen Chief"
 
 #. achievement refers to Halo
 msgid "This world is round but different."
@@ -211,7 +211,7 @@ msgstr "Hylla ett särskilt japanskt tv-spel."
 
 #. achievement title
 msgid "Inception"
-msgstr "Inledning"
+msgstr "Inception"
 
 #. achievement, inception
 msgid "Develop the game within the game."
@@ -295,7 +295,7 @@ msgid ""
 "Thank you very much! I'm sure our members will love what you have to say.\n"
 "Gordon"
 msgstr ""
-"Tack så mycket! Jag är övertygad om att våra medlemmar kommer att uppskatta "
+"Tack så hemskt mycket! Jag är övertygad om att våra medlemmar kommer att uppskatta "
 "det du har att säga.\n"
 "Gordon"
 
@@ -339,20 +339,20 @@ msgstr ""
 
 #. localNewsPaperFragment
 msgid "not done"
-msgstr "inte färdig"
+msgstr "inte gjort"
 
 #. localNewsPaperFragment
 msgid "done"
-msgstr "klar"
+msgstr "gjort"
 
 #. {0} is company name, {1} nr. of games, {2} player name, {3} topic name, {4} genre name, {5} either not done/done (localNewsPaperFragment)
 msgid "{0}, a local start-up, is trying to make it big in the gaming industry. The company has already published {1} games and is working hard on their next.{n}In an interview founder {2} said that the next game is going to be a {3}/{4} game, something the company has {5} before. It's great to see small local companies enter exciting new industries. All the best of luck to {0}."
 msgstr ""
-"{0}, ett lokalt företag, försöker att göra sitt bästa i spelbranschen. "
-"Företaget har redan publicerat {1} spel och arbetar hårt på sitt nästa.{N} I "
-"en intervju med grundaren {2} sade att nästa spel kommer att bli ett {3} / "
-"{4} spel, något som företaget har {5} innan. Det är bra att se små lokala "
-"företag komma in nya spännande branscher. All lycka till {0}."
+"{0}, ett lokalt företag, försöker att göra sitt bästa inom spelindustrin. "
+"Företaget har redan publicerat {1} spel och arbetar hårt på sitt nästa.{n}I "
+"en intervju sade grundaren {2} att nästa spel kommer att bli ett {3}/"
+"{4} spel, något som företaget har {5} innan. Det är roligt att se små lokala "
+"företag sätta sig in i nya spännande branscher. Vi önskar {0} lycka till."
 
 msgid "Sorry to bother you"
 msgstr "Ledsen att störa dig"
@@ -394,7 +394,7 @@ msgid "Planet GG has recently published an interview with {0}. According to the 
 msgstr ""
 "Planet GG har nyligen publicerat en intervju med {0}. Enligt intervjun "
 "arbetar företaget på sitt första spel som riktar sig till vuxna spelare. "
-"{1}, ägare och VD för {0} sa, \"Vi tror att spelarna är ute efter mer vuxet "
+"{1}, ägare och VD för {0} sade \"Vi tror att spelarna är ute efter mer vuxet "
 "innehåll i spel och vi är villiga att ta en risk för att ge det till "
 "dem.\"{n}"
 
@@ -404,10 +404,10 @@ msgid ""
 "\n"
 " ... Thank you for your time.{n}We will publish the interview next week."
 msgstr ""
-"Bra! \n"
+"Fint! \n"
 "\n"
 "\n"
-"  ... Tack för din tid. {N} Vi kommer att publicera intervjun nästa vecka."
+"  ... Tack för din tid.{n}Vi kommer att publicera intervjun nästa vecka."
 
 #. {0} company name
 msgid "There have been rumours circulating in the industry that {0} might be working on a game for mature audiences."
@@ -420,18 +420,18 @@ msgstr "Okej. Tack så mycket för din tid."
 
 #. heading
 msgid "Skip Tutorials"
-msgstr "Skippa instruktionerna"
+msgstr "Skippa Tutorial"
 
 msgid "Hello there! It seems that you have already played before. You can get right into development and skip the tutorial messages. Note that you can always review tutorial messages (even the ones you have skipped) in the Help menu while you play a game."
 msgstr ""
 "Hallå där! Det verkar som att du redan har spelat förut. Du kan gå direkt "
 "till spelet och hoppa över handledningen. Observera att du alltid kan visa "
-"handledningarna  (även de du har hoppat över) i Hjälp-menyn medan du spelar "
+"handledningarna (även de du har hoppat över) i Hjälp-menyn medan du spelar "
 "ett spel."
 
 #. decision action button
 msgid "Skip tutorial!"
-msgstr "Hoppa över handledningen!"
+msgstr "Hoppa över Tutorial!"
 
 #. decision action button
 msgid "Don't skip"
@@ -442,19 +442,19 @@ msgid ""
 "You have amassed over {0} in cash!\n"
 "Usually I would suggest that you should grow your company by moving into a larger office but unfortunately there don't seem to be any larger offices available in the lite version.{n}You can still continue your game until year 4 to see how much cash you will end up with and how many fans you will gain."
 msgstr ""
-"Du har samlat över {0} i kontanter! \n"
-"Vanligtvis skulle jag föreslå att du ska växa ert företaget genom att flytta "
+"Du har tjänat in över {0}!\n"
+"Vanligtvis skulle jag föreslå att du borde utveckla ditt företaget genom att flytta "
 "in i ett större kontor, men tyvärr verkar det inte finnas några större "
-"kontor i Demo-versionen. {N} Du kan fortsätta ditt spel förrän år 4 för att "
-"se hur mycket pengar du kommer att sluta med och hur många fans du kommer "
-"att ha."
+"kontor i Demo-versionen.{n}Du kan fortfarande fortsätta med ditt spel tills år 4 för att "
+"se hur mycket pengar du kan få ihop och hur många fans du kommer "
+"att få."
 
 msgid "Congratulations! You have made quite a name for yourself and have saved up a lot of capital. If you want to grow the company further then moving into a new office is the next step. I've found the perfect office, situated in a technology park. Would you like to move your company to the next level?"
 msgstr ""
-"Grattis! Du har gjort ett stort namn för dig själv och har sparat en massa "
-"kapital. Om du vill ytterligare expandera ditt bolag så är nästa steg att "
+"Grattis! Du har gjort ett stort namn av dig själv och har sparat en massa "
+"pengar. Om du vill expandera ditt företag vidare är nästa steg att "
 "flytta in i ett nytt kontor. Jag har hittat det perfekta kontoret, som "
-"ligger i en teknikpark. Vill du flytta ditt företag till nästa nivå?"
+"ligger i en teknikpark. Skulle du vilja ta ditt företag till nästa nivå?"
 
 #. heading
 msgid "New Office?"
@@ -484,7 +484,7 @@ msgid ""
 "It's not cheap but will allow us to grow even further. The new office also has space for additional expansions.\n"
 "Do you want to move?"
 msgstr ""
-"Chefen. {0} har vuxit bra under din ledning. Jag tycker det är dags att "
+"Chefen, {0} har vuxit bra under din ledning. Jag tycker det är dags att "
 "flytta företaget ur denna teknikpark och in i en byggnad värdig vår "
 "framgång.{n}Jag har hittat den perfekta byggnaden för vårt nya huvudkontor.\n"
 "Det är inte billigt men vi kommer att växa ytterligare. Det nya kontoret har "
@@ -521,7 +521,7 @@ msgstr "Vi kan öppna vårt egna hårdvarulabb nu."
 
 #. decision action button
 msgid "Let's do it! (pay {0})"
-msgstr "Låt gå! (betala {0})"
+msgstr "Låter bra! (betala {0})"
 
 msgid "Hardware lab"
 msgstr "Hårdvarulabb"
@@ -559,9 +559,9 @@ msgid ""
 "What do you say?"
 msgstr ""
 "Hej chefen! Jag har en talang för säkerhet och jag tror att vi verkligen "
-"skulle kunna göra med några säkerhetsuppdateringar i vårt kontor. \n"
+"skulle kunna behöva några säkerhetsuppdateringar i vårt kontor.\n"
 "Jag har forskat lite om det och jag tror att med en investering på {0} "
-"skulle vi vara mycket säkrare än vad vi är nu. \n"
+"skulle vi vara mycket säkrare än vad vi är just nu.\n"
 "Vad säger du?"
 
 #. decision action button
@@ -587,13 +587,13 @@ msgid ""
 "Dear esteemed sir/madame.\n"
 "I'm financial advisor to CEO at WOMOBA OIL LIMITED in Nigeria. I'm writing because I know of your high repute and trustworthiness. Our CEO has authorzied me to invest {0} in {1}.{n}We have deposited the amount at a safe bank and will transfer this money to you but the bank requires confirmation from you. If you wish to receive the funds you must transfer a one-time verification payment of {2}. I trust in you."
 msgstr ""
-"Kära aktad herrn / fru. \n"
+"Kära herre/fru.\n"
 "Jag är finansiell rådgivare till VD:n på WOMOBA OIL LILITED i Nigeria. Jag "
 "skriver för att jag hat fått veta om din höga trovärdighet. Min VD har sagt "
-"åt mig att investera {0} i {1}.{n}Vi har överfört beloppet till en säker "
-"bank som kommer att överföra dessa pengar till dig, men banken kräver "
-"bekräftelse från dig. Om du vill få pengarna så måste du göra en verifiering "
-"på betalningen av {2}. Jag litar på dig."
+"till mig att investera {0} i {1}.{n}Vi har överfört beloppet till em säker "
+"bank som kommer att överföra dessa pengar till dej, men banken kräver "
+"bekräftelse från dej. Om du vill få pengarna så måste du göra en verifiering "
+"på betalningen av {2}. Jag litar på dej."
 
 #. decision action button
 msgid "Pay ({0})"
@@ -605,7 +605,7 @@ msgstr "Avslå"
 
 #. name of expense when player falls into the scam trap.
 msgid "Gullibility Tax"
-msgstr "Godtrogenhets skatt"
+msgstr "Godtrogenhetsskatt"
 
 #. heading
 msgid "News"
@@ -631,7 +631,7 @@ msgid ""
 "The recent pleas for a patch for {0} seem to have been unanswered by {1}.\n"
 "Many fans have voiced their disappointment."
 msgstr ""
-"Den senaste vädjan om en patch till {0} verkar vara obesvarad av {1}\n"
+"Det nyligen kommit en massa krav på en patch för {0} som verkar vara obesvarad av {1}\n"
 "Många fans har uttryckt sin besvikelse."
 
 #. heading
@@ -647,8 +647,8 @@ msgstr ""
 "släppte den.\n"
 "Några av våra kunder har problem med detta, och de kräver att vi patchar "
 "spelet.{n}Vi kan antingen spendera pengar och tid att fixa det eller "
-"ignorera dina kunder. Om du vill patcha spelet sedan {1} på en karaktär och "
-"använda menyn Åtgärd för att utveckla en patch men se till att du inte "
+"ignorera dem. Om du vill patcha spelet {1} på en karaktär och "
+"använd menyn för att utveckla en patch men se till att du inte "
 "väntar för länge."
 
 #. label of expense for illegal activity
@@ -662,10 +662,10 @@ msgid ""
 "We'll contact you, Agent Blowfish"
 msgstr ""
 "{n}Detta är ett mycket speciellt erbjudande. Våra agenter har nyligen "
-"lyckats \"låna\" en del forsknings information som kan vara av intresse för "
+"lyckats \"låna\" en del forskningsinformation som kan vara av intresse för "
 "dig.\n"
-"Om du är intresserad så överför {0} till bifogad upplänks plats.\n"
-"Vi kontaktar dig, Agent Blowfish"
+"Om du är intresserad så överför {0} till bifogad upplänk.\n"
+"Vi kommer att kontakta dig, Agent Blowfish"
 
 #. heading
 msgid "Proposition"
@@ -697,8 +697,8 @@ msgid ""
 "Agent Blowfish"
 msgstr ""
 "Detta är ett mycket speciellt erbjudande. Våra agenter har nyligen lyckats "
-"få tillgång till vissa kritiska system i en av dina konkurrenter.\n"
-"Om du vill starta cyber krig överför {0} till skyddad plats så kommer vi att "
+"få tillgång till vissa kritiska system från en av dina konkurrenter.\n"
+"Om du vill starta cyberkrig överför {0} till skyddad plats så kommer vi att "
 "inleda sabotage.,\n"
 "Agent Blowfish"
 
@@ -711,7 +711,7 @@ msgid ""
 "In a statement the game development company {0} has said that they have been the victim of industrial sabotage. Unfortunately development on their current project has been severely affected.\n"
 "Police are investigating."
 msgstr ""
-"I ett uttalande av spelutvecklingsföretaget {0} sa de att de har utsatts för "
+"I ett uttalande från spelutvecklingsföretaget {0} sa de att de har utsatts för "
 "industriellt sabotage. Tyvärr har utvecklingen av deras aktuella projekt "
 "drabbats hårt. \n"
 "Polisen undersöker det."
@@ -721,7 +721,7 @@ msgid ""
 "Would you like to help out?"
 msgstr ""
 "Hej chefen! En vän till mig är mycket involverad i en organisation som "
-"syftar till att få in fler kvinnor i teknik världen. De letar efter en "
+"syftar till att få in fler kvinnor i teknikvärlden. De letar efter en "
 "sponsor, och jag tror att detta skulle vara ett perfekt tillfälle för oss.\n"
 "Vill du hjälpa till?"
 
@@ -740,7 +740,7 @@ msgid ""
 msgstr ""
 "Vi har fått veta att {0} nyligen sponsrade en berömd rörelse för att få in "
 "fler kvinnor i tekniska roller.\n"
-"{1}, VD på {0} sa att, \"Vi vill gärna se fler kvinnor i spelbranschen.\""
+"{1}, VD på {0} sade \"Vi vill gärna se fler kvinnor i spelbranschen.\""
 
 #. {0} game title
 msgid ""
@@ -766,8 +766,8 @@ msgstr "Varna dem"
 
 msgid "Piracy is an increasingly big problem in the industry. Some companies invest a lot of money and effort to fight piracy while others argue that it's better to take a more relaxed approach and invest in better games instead."
 msgstr ""
-"Piratkopiering är ett stort problem i branschen. Vissa företag investerar "
-"mycket pengar och ansträngning för att bekämpa piratkopiering medan andra "
+"Piratkopiering är ett stort problem inom branschen. Vissa företag investerar "
+"mycket tid och pengar för att bekämpa piratkopiering medan andra "
 "hävdar att det är bättre att ta en mer avslappnad inställning och investera "
 "i bättre spel istället."
 
@@ -778,7 +778,7 @@ msgstr "Vi har förlorat {0} fans men vann {1} i rättsanspråk."
 #. {0} company name, {1} game name
 msgid "In what some have called a drastic move, {0} has recently taken legal action against illegal players of their game {1}."
 msgstr ""
-"I vad några har kallat en dramatisk åtgärd har {0} nyligen tagit rättsliga "
+"I vad några har kallat en drastisk åtgärd har {0} nyligen tagit rättsliga "
 "åtgärder mot olagliga spelare av deras spel {1}."
 
 #. expense label
